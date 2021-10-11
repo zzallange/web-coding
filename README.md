@@ -6,12 +6,11 @@
 
 ## Use Skills
 
-- [HTML].(#html)
-- [CSS].(#css)
-- [PHP].(#php)
-- [MySQL].(#mysql)
-- [MySQL].(#mysql)
+- [HTML](#html)
+- [CSS](#css)
+- [PHP](#php)
+- [MySQL](#mysql)
 
 ## Note
 
-- [blog].(https://grayreo.tistory.com/)
+- [blog](https://grayreo.tistory.com/)
